@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LFA_AFN_lambda__AFD.dir/main.cpp.o  -o LFA_AFN_lambda__AFD.exe -Wl,--out-implib,libLFA_AFN_lambda__AFD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

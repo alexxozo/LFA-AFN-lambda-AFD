@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Alex/Desktop/Cilon_Projects/LFA-AFN(lambda)-AFD/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+list
+-
+
