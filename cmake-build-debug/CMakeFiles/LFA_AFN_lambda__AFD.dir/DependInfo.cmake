@@ -4,9 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Alex/Desktop/Cilon_Projects/LFA-AFN(lambda)-AFD/main.cpp" "/cygdrive/c/Users/Alex/Desktop/Cilon_Projects/LFA-AFN(lambda)-AFD/cmake-build-debug/CMakeFiles/LFA_AFN_lambda__AFD.dir/main.cpp.o"
+  "/cygdrive/c/Users/Alex/Desktop/Github Desktop Projects/LFA-AFN-lambda-AFD/main.cpp" "/cygdrive/c/Users/Alex/Desktop/Github Desktop Projects/LFA-AFN-lambda-AFD/cmake-build-debug/CMakeFiles/LFA_AFN_lambda__AFD.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "_GLIBCXX_USE_CXX11_ABI=0"
+  )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
